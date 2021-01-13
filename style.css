@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: aliceblue;
+    font-size: 25px;
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body button {
+background-color: rgba(24, 144, 223, 0.555);
+border-radius: 25px;
+padding: 15px;
+}
+body button:hover{
+    background-color: rgba(0, 0, 0, 0.308);
+} 
