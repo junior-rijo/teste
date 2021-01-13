@@ -1,7 +1,7 @@
 body{
     text-align: center;
-    background-color: aliceblue;
-    font-size: 25px;
+    background-color: rgb(255, 253, 253);
+    font-size: 1.5rem;
     padding: 5px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -10,6 +10,17 @@ background-color: rgba(24, 144, 223, 0.555);
 border-radius: 25px;
 padding: 15px;
 }
+
+body button a {
+    color:black;
+    text-decoration: none;
+}
+
 body button:hover{
-    background-color: rgba(0, 0, 0, 0.308);
-} 
+    background-color: rgb(0, 110, 201);
+}
+
+body img {
+    width: 150px;
+    height: 150px;
+}
